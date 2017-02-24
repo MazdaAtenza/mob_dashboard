@@ -1,0 +1,30 @@
+.table-content{
+	background: #fff; 
+	margin-top: 10px; 
+	margin-bottom: 0;
+}
+.table .fixDate{
+	margin-bottom: 0;
+}
+.table-footer{
+	padding-left: 10px;
+}
+.paging{
+	font-size: 12px; 
+	padding-right: 0;
+}
+.stick{
+	color: #33b774;
+}
+.hot{
+	color: #a10647;
+}
+.noComment{
+	color: #32c1cf;
+}
+.draft{
+	color: #e9a781;
+}
+.common{
+	display: none;
+}
